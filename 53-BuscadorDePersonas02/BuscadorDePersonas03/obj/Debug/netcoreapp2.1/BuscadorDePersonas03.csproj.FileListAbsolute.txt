@@ -1,0 +1,11 @@
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\bin\Debug\netcoreapp2.1\BuscadorDePersonas03.deps.json
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\bin\Debug\netcoreapp2.1\BuscadorDePersonas03.runtimeconfig.json
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\bin\Debug\netcoreapp2.1\BuscadorDePersonas03.runtimeconfig.dev.json
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\bin\Debug\netcoreapp2.1\BuscadorDePersonas03.dll
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\bin\Debug\netcoreapp2.1\BuscadorDePersonas03.pdb
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\obj\Debug\netcoreapp2.1\BuscadorDePersonas03.csprojAssemblyReference.cache
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\obj\Debug\netcoreapp2.1\BuscadorDePersonas03.csproj.CoreCompileInputs.cache
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\obj\Debug\netcoreapp2.1\BuscadorDePersonas03.AssemblyInfoInputs.cache
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\obj\Debug\netcoreapp2.1\BuscadorDePersonas03.AssemblyInfo.cs
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\obj\Debug\netcoreapp2.1\BuscadorDePersonas03.dll
+C:\Users\tauro\Desktop\BuscadorDePersonas03\BuscadorDePersonas03\obj\Debug\netcoreapp2.1\BuscadorDePersonas03.pdb
